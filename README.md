@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/codefactor/grade/github/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Code%20Quality&style=plastic">
 
   </a>
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/blob/master/LICENSE">
+  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/blob/KCADEVIL/LICENSE">
     <img src="https://img.shields.io/github/license/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Lisance&style=plastic">
 
   </a>
